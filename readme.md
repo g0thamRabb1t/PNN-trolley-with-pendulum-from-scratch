@@ -20,6 +20,7 @@ Output: the final state s
 ## Animation showing how the algorithm works
 
 <p align="center">
+	<src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif">
     ![Simulation Annealing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
 </p>
 
@@ -28,6 +29,7 @@ Output: the final state s
 
 I used PNN from screen (with four const ones)
 <p align="center">
+	<src="https://gcdnb.pbrd.co/images/WC49nmW1VC67.png?o=1">
     ![PNN](https://gcdnb.pbrd.co/images/WC49nmW1VC67.png?o=1)
 </p>
 
