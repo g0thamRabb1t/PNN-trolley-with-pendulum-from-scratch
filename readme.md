@@ -17,14 +17,19 @@ For k = 0 through kmax (exclusive):
 Output: the final state s
 ```
 
-![Simulation Annealing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
+## Animation showing how the algorithm works
+
+<p align="center">
+    ![Simulation Annealing](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hill_Climbing_with_Simulated_Annealing.gif)
+</p>
 
 
 ## Probabilistic Neural Network
 
-I used PNN from screen (with two const ones)
-
-![PNN](https://gcdnb.pbrd.co/images/WC49nmW1VC67.png?o=1)
+I used PNN from screen (with four const ones)
+<p align="center">
+    ![PNN](https://gcdnb.pbrd.co/images/WC49nmW1VC67.png?o=1)
+</p>
 
 
 ## Getting Started
