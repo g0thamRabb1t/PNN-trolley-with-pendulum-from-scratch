@@ -33,7 +33,11 @@ I used PNN from screen (with four const ones)
 
 ### Executing program
 
-Just run the program. It also run in Jupyter Notebook
+Just run the program. 
+```
+python main.py
+```
+It also works in Jupyter Notebook e.g.
 ```
 colab.research.google.com
 ```
