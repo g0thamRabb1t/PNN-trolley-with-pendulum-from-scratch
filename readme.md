@@ -49,9 +49,10 @@ pip install numpy
 ```
 
 ## Results:
-![CLI](https://ibb.co/vJHRYHT)
+![CLI](https://i.ibb.co/mHGg8G2/result-cli.jpg)
 
-![plots](https://ibb.co/x21hkN8)
+![plots](https://i.ibb.co/51rT0Px/result-plots.jpg)
+
 
 ## Author
 
