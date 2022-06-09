@@ -37,7 +37,7 @@ Just run the program.
 ```
 python main.py
 ```
-It also works in Jupyter Notebook e.g.
+It also works with Jupyter Notebook e.g.
 ```
 colab.research.google.com
 ```
