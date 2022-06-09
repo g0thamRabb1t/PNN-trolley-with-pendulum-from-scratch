@@ -47,6 +47,12 @@ Remember about libraries
 pip install mathplotlib
 pip install numpy
 ```
+
+## Results:
+![CLI](https://ibb.co/vJHRYHT)
+
+![plots](https://ibb.co/x21hkN8)
+
 ## Author
 
 [@MatekStatek](https://twitter.com/matekstatek)
