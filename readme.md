@@ -4,7 +4,7 @@
 
 The program creates the PNN and teaches the network to drive the trolley with pendulum as long as possible without the pendulum toppling over. Simulated annealing was chosen for the optimization of the weight matrix.
 
-##Simulation Annealing
+## Simulation Annealing
 
 Pseudocode:
 ```
